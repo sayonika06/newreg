@@ -43,19 +43,15 @@ body {
 
 /* ANNOUNCEMENT  ANNOUNCEMENT ANNOUNCEMENT ANNOUNCEMENT ANNOUNCEMENT */
 
-
-
-.heading
-{
+/* #announcement h1 {
   text-align: center;
   color: rgb(255, 255, 255);
   font-family: "Angel rhapsody";
   font-size: 6vw;
   padding-top: 0px;
-  padding-bottom: 4vh;
   margin-top: 13vh;
-  margin-bottom: 1vh;
-}
+  margin-bottom: 4vh;
+} */
 
 
 @media screen and (max-width: 450px) {
@@ -71,7 +67,7 @@ body {
 }
 
 .content-box {
-   display: flex;
+  /* display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -92,29 +88,28 @@ body {
   box-shadow: 10px 4px 19px rgba(0, 0, 0, 0.82),
     -10px 4px 19px rgba(0, 0, 0, 0.82);
   border-radius: 32px;
-  text-transform: uppercase; 
-  margin-top: 9px;
+  text-transform: uppercase; */
 
 
 
-  /* display: flex;
+  display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: center;
 text-align: center;
- padding: 0px;
+padding: 0px;
   padding-top: 0px;
-  padding-bottom: 0px; 
+  padding-bottom: 0px;
 padding-top: 43px;
 padding-bottom: 260px;
 height: 61vh;
 width: 70vw;
 color: white;
- background: linear-gradient(154.82deg, rgba(152, 152, 152, 0.65) -1.48%, rgba(30, 29, 29, 0.523197) 23.68%, rgba(0, 0, 0, 0.39) 50.11%, rgba(79, 78, 78, 0.35) 70.72%, rgba(243, 243, 243, 0.2) 100%);
+/* background: linear-gradient(154.82deg, rgba(152, 152, 152, 0.65) -1.48%, rgba(30, 29, 29, 0.523197) 23.68%, rgba(0, 0, 0, 0.39) 50.11%, rgba(79, 78, 78, 0.35) 70.72%, rgba(243, 243, 243, 0.2) 100%);
 box-shadow: 10px 4px 19px rgba(0, 0, 0, 0.82), -10px 4px 19px rgba(0, 0, 0, 0.82);
-border-radius: 32px;
+border-radius: 32px; */
 text-transform: uppercase;
-margin-top: 9px; */
+margin-top: 236px;
 }
 
 @media screen and (max-width: 450px) {
